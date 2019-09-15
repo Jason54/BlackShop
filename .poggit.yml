@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/jason54pe/BlackShop
+branches:
+- master
+projects:
+  BlackShop:
+    path: ""
+...
